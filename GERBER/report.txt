@@ -1,0 +1,11 @@
+Plot file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-F_Cu.gbr" created.
+Plot file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-B_Cu.gbr" created.
+Plot file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-F_Paste.gbr" created.
+Plot file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-B_Paste.gbr" created.
+Plot file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-F_SilkS.gbr" created.
+Plot file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-B_SilkS.gbr" created.
+Plot file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-F_Mask.gbr" created.
+Plot file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-B_Mask.gbr" created.
+Plot file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-Edge_Cuts.gbr" created.
+Plot file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-F_CrtYd.gbr" created.
+Create Gerber job file "C:\Users\dawipayan\Desktop\DAY1_PCB\DAY2_PCB\DAY3_PCB\DAY3_PCB-job.gbrjob"
